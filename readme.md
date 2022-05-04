@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://cdn.discordapp.com/attachments/774759963507032085/938814652543033464/234526754_353325526393195_816056782218590609_n.png)](https://github.com/Cwackz) 
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
   
 <p>
   <h1 align="center"><b>Hello, I'm Crackz 👋</b></h1>
