@@ -11,7 +11,7 @@
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### 📘 Quick Information
-- 👨🏽‍💻 I’m currently working on an Roblox Lua Menu (3.AM Script Hub)
+- 👨🏽‍💻 I’m currently starting my education 8 of august 2022
 - ⚡ I’m currently expanding my knowledge about Python, JavaScript & Lua
 - 👯 I’m looking forward to collaborate with other Developers
 - 🥅 2022 Goals: Become more fluent in my languages :eyes:
