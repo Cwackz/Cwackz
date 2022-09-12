@@ -42,7 +42,7 @@
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwackz&show_icons=true&hide_border=true&theme=radical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cwackz&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Crackz's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cwackz&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Crackz' GitHub Stats" />
 
 
 </br></br></br></br></br>
