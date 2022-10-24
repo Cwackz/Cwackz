@@ -8,7 +8,7 @@
 [![Discord](https://dcbadge.vercel.app/api/shield/285132316509208577?style=plastic&logoColor=presence&theme=clean)](https://discord.com/users/285132316509208577)
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
 
 ### 📘 Quick Information
 - 👨🏽‍💻 I’m currently starting my education 8 of august 2022
