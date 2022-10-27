@@ -11,7 +11,7 @@
 
 
 ### 📘 Quick Information
-- 👨🏽‍💻 I’m currently starting my education 8 of august 2022
+- 👨🏽‍💻 H.C Ørsted
 - ⚡ I’m currently expanding my knowledge about Python, JavaScript & Lua
 - 👯 I’m looking forward to collaborate with other Developers
 - 🥅 2022 Goals: Become more fluent in my languages :eyes:
