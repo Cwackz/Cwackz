@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
   
 <p>
-  <h1 align="center"><b>Hello, I'm Crackz 👋</b></h1>
+  <h1 align="center"><b>Hello, I'm Benjamin 👋</b></h1>
 </p>
 
 ![GitHub](https://komarev.com/ghpvc/?username=Cwackz&style=plastic)
