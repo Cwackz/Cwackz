@@ -11,7 +11,7 @@
 
 
 ### 📘 Quick Information
-- 👨🏽‍💻 H.C Ørsted
+- 👨🏽‍💻 HTX
 - ⚡ I’m currently expanding my knowledge about C, C++, Python
 - 👯 I’m looking forward to collaborate with other Developers
 - 🥅 2023 Goals: Become more fluent in my languages :eyes:
