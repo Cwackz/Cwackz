@@ -14,9 +14,9 @@
 - 👨🏽‍💻 HTX
 - ⚡ I’m currently expanding my knowledge about C, C++, Python
 - 👯 I’m looking forward to collaborate with other Developers
-- 🥅 2023 Goals: Become more fluent in my languages :eyes:
+- 🥅 2024 Goals: Become more fluent in my languages :eyes:
 - 🎿 Hobbies other than coding : hardware , gaming , gym .. 
-- 📬 How to reach me: benjamin#6666
+- 📬 How to reach me: @danskespil
 
 <br>
 
