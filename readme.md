@@ -14,11 +14,11 @@
 
 A student with a passion for backend development, endpoint exploitation, and simply developing software that I find amusing/interesting.
 
-* 👨🏽‍💻  HTX
+* 👨🏽‍💻  Human Computer Interactions at RUC
 * ⚡  i am currently trying to become more fluent in my languages.
 * 🌍  I'm based in Denmark
 * ✉️  You can contact me at [kontakt@1ia.tech](mailto:kontakt@1ia.tech)
-* 🚀  I'm currently working on [👀](http://blah)
+* 🚀  I'm currently working on [Python CMD](https://github.com/Cwackz/Python-CMD)
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
