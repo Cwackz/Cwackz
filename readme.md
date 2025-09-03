@@ -14,7 +14,7 @@
 
 A student with a passion for backend development, endpoint exploitation, and simply developing software that I find amusing/interesting.
 
-* 👨🏽‍💻  Human Computer Interactions at RUC
+* 👨🏽‍💻  BSc Human Computer Interactions at RUC
 * ⚡  i am currently trying to become more fluent in my languages.
 * 🌍  I'm based in Denmark
 * ✉️  You can contact me at [kontakt@1ia.tech](mailto:kontakt@1ia.tech)
